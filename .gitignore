@@ -1,0 +1,21 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Project
+static/
+.server.pid
+server.log
+
+# Environments
+.env
+.venv/
+venv/
+env/
